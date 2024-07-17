@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pratica Quadrantes</string>
+    <string name="title_text_composable"> Text Composable </string>
+    <string name="content_text_composable"> display text composable first box </string>
+    <string name="title_row_composable"> Row Composable </string>
+    <string name="content_row_composable"> layout display row composable third box </string>
+    <string name="title_column_composable"> colum Composable </string>
+    <string name="content_column_composable"> layout display row composable fourth  box </string>
+</resources>
